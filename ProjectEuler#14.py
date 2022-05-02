@@ -1,3 +1,4 @@
+# Longest Collatz Sequence
 
 def main():
     current_longest_chain = 0
