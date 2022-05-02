@@ -6,7 +6,7 @@ projecteuler.net
 
 @ https://projecteuler.net/problem=14
 
-# Longest Collatz sequence
+# Longest Collatz Sequence
 
 The following iterative sequence is defined for the set of positive integers:
 
