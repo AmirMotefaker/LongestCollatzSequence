@@ -23,7 +23,7 @@ Although it has not been proved yet (Collatz Problem), it is thought that all st
 Which starting number, under one million, produces the longest chain?
 NOTE: Once the chain starts the terms are allowed to go above one million.
 
-These links is very useful for solved this problem:
+** These links is very useful for solved this problem: **
 
 https://lucidmanager.org/data-science/project-euler-14/
 
