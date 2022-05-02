@@ -1,3 +1,4 @@
+
 def main():
     current_longest_chain = 0
     number_that_produced_chain = 0
