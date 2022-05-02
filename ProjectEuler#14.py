@@ -1,10 +1,8 @@
-# Longest Collatz Sequence
-
 def main():
     current_longest_chain = 0
     number_that_produced_chain = 0
     x = 1
-    number_to_collatz_up_to = 13
+    number_to_collatz_up_to = 27
 
     while (x < number_to_collatz_up_to):
         current_number = x
