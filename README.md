@@ -24,6 +24,7 @@ Which starting number, under one million, produces the longest chain?
 NOTE: Once the chain starts the terms are allowed to go above one million.
 
 These links is very useful for solved this problem:
+
 https://lucidmanager.org/data-science/project-euler-14/
 
 https://github.com/lukegarbutt
