@@ -3,10 +3,10 @@
 Code by lukegarbutt & amotef@gmail.com
 
 projecteuler.net
-
-# Longest Collatz sequence
+https://projecteuler.net/problem=14
 Problem 14
 
+# Longest Collatz sequence
 
 The following iterative sequence is defined for the set of positive integers:
 
