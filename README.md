@@ -3,8 +3,8 @@
 Code by lukegarbutt & amotef@gmail.com
 
 projecteuler.net
-https://projecteuler.net/problem=14
-Problem 14
+
+@ https://projecteuler.net/problem=14
 
 # Longest Collatz sequence
 
