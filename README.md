@@ -29,3 +29,8 @@ NOTE: Once the chain starts the terms are allowed to go above one million.
 https://lucidmanager.org/data-science/project-euler-14/
 
 https://github.com/lukegarbutt
+
+
+** This Video is very useful for explaining The Collatz Conjecture by Professor David Eisenbud **
+
+https://www.youtube.com/watch?v=5mFpVDpKX70
