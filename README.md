@@ -34,3 +34,7 @@ https://github.com/lukegarbutt
 ** This Video is very useful for explaining The Collatz Conjecture by Professor David Eisenbud **
 
 https://www.youtube.com/watch?v=5mFpVDpKX70
+
+
+![image](https://user-images.githubusercontent.com/46513710/166229312-864026b6-eaee-461e-85f1-501c251f4692.png)
+
