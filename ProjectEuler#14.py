@@ -2,7 +2,7 @@ def main():
     current_longest_chain = 0
     number_that_produced_chain = 0
     x = 1
-    number_to_collatz_up_to = 27
+    number_to_collatz_up_to = 100000
 
     while (x < number_to_collatz_up_to):
         current_number = x
@@ -12,9 +12,11 @@ def main():
             current_chain += 1
         if current_chain > current_longest_chain:
             current_longest_chain = current_chain
-        print(x, current_chain)
+            number_that_produced_chain = x
+        #print(x, current_chain)
         current_chain = 1
         x += 1
+    print(number_that_produced_chain, current_longest_chain)
 
 
 
