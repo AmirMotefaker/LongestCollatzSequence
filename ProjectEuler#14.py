@@ -1,3 +1,5 @@
+# Code by @AmirMotefaker
+
 import time
 def main():
     start_time = time.time()
